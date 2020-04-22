@@ -13,6 +13,8 @@ public class LaunchingFirefox {
 		System.out.println(driver.getTitle());
 		driver.quit();
 		
+		System.out.println("New add in fire fox");
+		
 
 		
 	}

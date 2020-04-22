@@ -14,7 +14,7 @@ public class LaunchingChrome {
 		driver.get("https://www.google.com/");
 		System.out.println(driver.getTitle());
 		driver.quit();
-		
+		System.out.println("New add on chrome");
 		
 		
 		

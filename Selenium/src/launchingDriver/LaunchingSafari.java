@@ -10,6 +10,7 @@ public class LaunchingSafari {
 		System.setProperty("webdriver.safari.driver", "//Applications//safaridriver");
 		WebDriver driver = new SafariDriver();
 		driver.get("http://www.google.com/");
+		System.out.println("this driver was not work");
 		
 	}
 
